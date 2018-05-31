@@ -1,0 +1,11 @@
+C:\Users\dibbs\documents\visual studio 2017\Projects\Sorting Testing App\Sorting Testing App\obj\Debug\netcoreapp2.0\Sorting Testing App.csproj.CoreCompileInputs.cache
+C:\Users\dibbs\documents\visual studio 2017\Projects\Sorting Testing App\Sorting Testing App\obj\Debug\netcoreapp2.0\Sorting Testing App.AssemblyInfoInputs.cache
+C:\Users\dibbs\documents\visual studio 2017\Projects\Sorting Testing App\Sorting Testing App\obj\Debug\netcoreapp2.0\Sorting Testing App.AssemblyInfo.cs
+C:\Users\dibbs\documents\visual studio 2017\Projects\Sorting Testing App\Sorting Testing App\bin\Debug\netcoreapp2.0\Sorting Testing App.deps.json
+C:\Users\dibbs\documents\visual studio 2017\Projects\Sorting Testing App\Sorting Testing App\bin\Debug\netcoreapp2.0\Sorting Testing App.runtimeconfig.json
+C:\Users\dibbs\documents\visual studio 2017\Projects\Sorting Testing App\Sorting Testing App\bin\Debug\netcoreapp2.0\Sorting Testing App.runtimeconfig.dev.json
+C:\Users\dibbs\documents\visual studio 2017\Projects\Sorting Testing App\Sorting Testing App\bin\Debug\netcoreapp2.0\Sorting Testing App.dll
+C:\Users\dibbs\documents\visual studio 2017\Projects\Sorting Testing App\Sorting Testing App\bin\Debug\netcoreapp2.0\Sorting Testing App.pdb
+C:\Users\dibbs\documents\visual studio 2017\Projects\Sorting Testing App\Sorting Testing App\obj\Debug\netcoreapp2.0\Sorting Testing App.dll
+C:\Users\dibbs\documents\visual studio 2017\Projects\Sorting Testing App\Sorting Testing App\obj\Debug\netcoreapp2.0\Sorting Testing App.pdb
+C:\Users\dibbs\documents\visual studio 2017\Projects\Sorting Testing App\Sorting Testing App\obj\Debug\netcoreapp2.0\Sorting Testing App.csprojResolveAssemblyReference.cache
